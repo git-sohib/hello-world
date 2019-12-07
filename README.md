@@ -1,3 +1,4 @@
+```
 Using TensorFlow backend.
 Using TensorFlow backend.
 Using TensorFlow backend.
@@ -5596,3 +5597,6 @@ Traceback (most recent call last):
 sklearn.externals.joblib.externals.loky.process_executor.BrokenProcessPool: A result has failed to un-serialize. Please ensure that the objects returned by the function are always picklable.
 
 Process finished with exit code 1
+
+
+```
